@@ -25,3 +25,11 @@ Besides my education and research, I like to rock climb, surf, snowboard, and do
 I’m excited to refine my data processing skills and learn how to work with large data sets. I’ve only recently started working with large amounts of environmental data like spatial and remote sensing data, so I’m hoping this course will help build my skill set to use in my future career!
 
 ![Atlantic Rainforest](/img/AtlanticRainforest.jpeg "Some Pretty Pictures I've Taken")
+
+### Interactive Map of Picinguaba, São Paulo, Brazil
+
+I spent some time this year doing conservation work and research in different regions of Brazil's Atlantic Rainforest, and this coastal region of Picinguaba was by far my favorite. Use this map to find some of the local communities that have lived off the land here for hundreds of years, view the coastal mountains, and see how urban expansion has spread in some areas!
+
+[Picinguaba.html](https://github.com/user-attachments/files/31976597/Picinguaba.html)
+
+<embed type="text/html" src="Picinguaba.html" width="600" height="600">
