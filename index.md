@@ -21,14 +21,12 @@ Welcome to my Portfolio! My name is Hayden and I’m a 4th year Undergraduate Ge
 
 Besides my education and research, I like to rock climb, surf, snowboard, and do anything outdoors. I’m from San Diego, CA, so the beach is my second home, but I’m currently enjoying my time in the mountains! I also love anything to do with music (90’s rock and hip hop is always my favorite) and I love cooking family recipes whenever I can!
 
+### Projects
+
+[Interactive Map](./interactivemap.md)
+
 ### Earth Data Science Bootcamp
 
 I’m excited to refine my data processing skills and learn how to work with large data sets. I’ve only recently started working with large amounts of environmental data like spatial and remote sensing data, so I’m hoping this course will help build my skill set to use in my future career!
 
 ![Atlantic Rainforest](/img/AtlanticRainforest.jpeg "Some Pretty Pictures I've Taken")
-
-### Interactive Map of Picinguaba, São Paulo, Brazil
-
-I spent some time this year doing conservation work and research in different regions of Brazil's Atlantic Rainforest, and this coastal region of Picinguaba was by far my favorite. Use this map to find some of the local communities that have lived off this land for generations, view the unique coastal mountains, and see how successful restoration and conservation efforts in this forested region have been!
-
-<embed type="text/html" src="Picinguaba.html" width="800" height="800">
