@@ -30,6 +30,4 @@ I’m excited to refine my data processing skills and learn how to work with lar
 
 I spent some time this year doing conservation work and research in different regions of Brazil's Atlantic Rainforest, and this coastal region of Picinguaba was by far my favorite. Use this map to find some of the local communities that have lived off the land here for hundreds of years, view the coastal mountains, and see how urban expansion has spread in some areas!
 
-[Picinguaba.html](https://github.com/user-attachments/files/31976597/Picinguaba.html)
-
 <embed type="text/html" src="Picinguaba.html" width="600" height="600">
