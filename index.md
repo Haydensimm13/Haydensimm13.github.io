@@ -6,6 +6,8 @@
 * LinkedIn: https://www.linkedin.com/in/hayden-simmons-74aa06424/
 * GitHub: https://github.com/Haydensimm13
 
+![Planting Trees in Brazil](/img/047DD1FC-C4B2-45AA-AD7E-1809CB114395/PlantingTreesBrazil.jpeg "Conservation Work in Brazil's Atlantic Rainforest")
+
 ### Education and Professional Background
 
 * 4th Year Undergraduate student in the University of Colorado Boulder's Geography Department
@@ -21,3 +23,5 @@ Besides my education and research, I like to rock climb, surf, snowboard, and do
 ### Earth Data Science Bootcamp
 
 I’m excited to refine my data processing skills and learn how to work with large data sets. I’ve only recently started working with large amounts of environmental data like spatial and remote sensing data, so I’m hoping this course will help build my skill set to use in my future career!
+
+![Atlantic Rainforest](/img/AtlanticRainforest.jpeg "Some Pretty Pictures I've Taken")
