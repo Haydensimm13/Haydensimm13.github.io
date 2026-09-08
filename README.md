@@ -1,2 +1,2 @@
 # -Haydensimm13-.github.io
-Portfolio webpage for Hayden Simmons' coding projects
+Portfolio for Hayden Simmons' coding projects
