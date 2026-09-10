@@ -3,10 +3,11 @@
 ### Contact Information
 
 * Email: Hayden.Simmons@Colorado.edu
-* LinkedIn: https://www.linkedin.com/in/hayden-simmons-74aa06424/
-* GitHub: https://github.com/Haydensimm13
+* LinkedIn: [Hayden Simmons LinkedIn Profile](https://www.linkedin.com/in/hayden-simmons-74aa06424/)
+* GitHub: [Hayden Simmons Github Profile](https://github.com/Haydensimm13)
 
 ![Planting Trees in Brazil](/img/047DD1FC-C4B2-45AA-AD7E-1809CB114395/PlantingTreesBrazil.jpeg "Conservation Work in Brazil's Atlantic Rainforest")
+*Me planting trees in the Pontal do Paranapanema region of São Paulo, Brazil (captured by a friend)*
 
 ### Education and Professional Background
 
@@ -30,3 +31,4 @@ Besides my education and research, I like to rock climb, surf, snowboard, and do
 I’m excited to refine my data processing skills and learn how to work with large data sets. I’ve only recently started working with large amounts of environmental data like spatial and remote sensing data, so I’m hoping this course will help build my skill set to use in my future career!
 
 ![Atlantic Rainforest](/img/AtlanticRainforest.jpeg "Some Pretty Pictures I've Taken")
+*Picture of the Atlantic Rainforest in the Serra do Mar region of São Paulo, Brazil (Captured by me)*
