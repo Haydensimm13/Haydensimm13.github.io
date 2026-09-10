@@ -7,7 +7,7 @@
 * GitHub: [Hayden Simmons Github Profile](https://github.com/Haydensimm13)
 
 ![Planting Trees in Brazil](/img/047DD1FC-C4B2-45AA-AD7E-1809CB114395/PlantingTreesBrazil.jpeg "Conservation Work in Brazil's Atlantic Rainforest")
-*Me planting trees in the Pontal do Paranapanema region of São Paulo, Brazil (captured by a friend)*
+*Me planting trees in the Pontal do Paranapanema region of São Paulo, Brazil (Captured by a friend)*
 
 ### Education and Professional Background
 
