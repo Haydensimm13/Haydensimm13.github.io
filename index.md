@@ -24,7 +24,9 @@ Besides my education and research, I like to rock climb, surf, snowboard, and do
 
 ### Projects
 
-[Interactive Map](./interactivemap.md)
+[Interactive Map of Picinguaba, São Paulo, Brazil](./interactivemap.md)  
+
+[San Diego Climate Trends](./portfolio_posts/sandiego_climate_trend.md)
 
 ### Earth Data Science Bootcamp
 
