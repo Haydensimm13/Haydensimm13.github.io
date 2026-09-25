@@ -17,6 +17,6 @@ Despite the lack of conclusion on if annual temperature is increasing or decreas
 
 #### References
 
-*National Centers for Environmental Information, National Oceanic and Atmospheric Administration. "Daily Summaries Station Details: San Diego International Airport, CA US, GHCND:USW00023188." Climate Data Online. Accessed September 22, 2026. https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00023188/detail
+* National Centers for Environmental Information, National Oceanic and Atmospheric Administration. "Daily Summaries Station Details: San Diego International Airport, CA US, GHCND:USW00023188." Climate Data Online. Accessed September 22, 2026. https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00023188/detail
 * Messner, S., Miranda, S. C., Young, E., & Hedge, N. (2011). Climate change-related impacts in the San Diego region by 2050. Climatic Change, 109(Suppl 1), 505–531. https://doi.org/10.1007/s10584-011-0316-1
 * Kalansky, J., Cayan, D., Barba, K., Walsh, L., Brouwer, K., & Boudreau, D. (2018). San Diego summary report: California's fourth climate change assessment (Publication No. SUM-CCCA4-2018-009). University of California, San Diego. https://escholarship.org/content/qt0ff253kt/qt0ff253kt.pdf
