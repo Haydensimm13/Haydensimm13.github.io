@@ -13,7 +13,7 @@
 
 * 4th Year Undergraduate student in the University of Colorado Boulder's Geography Department
 * Research Assistant at the Institute of Arctic and Alpine Research
-* Conducted conservation work and research throughout Brazil's Atlantic Rainforest in coalition with local and indigenous groups
+* Conducted conservation work and research throughout Brazil's Atlantic Rainforest in coalition with the Instituto de Pesquisas Ecológicaslocal (IPÊ), local people, and indigenous groups
 * Working on an Honors Thesis focused on the differential responses of tree growth to drought and how they are related
 
 ### Personal Bio
