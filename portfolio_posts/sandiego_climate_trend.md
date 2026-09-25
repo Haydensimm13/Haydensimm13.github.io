@@ -8,7 +8,7 @@ Although climate scientist agree that San Diego as a whole is becoming consisten
 
 Despite the lack of conclusion on if annual temperature is increasing or decreasing, it is clear that the variance in annual mean maximum temperatures is becoming more extreme. This means that our cold years are becoming even colder, and our warm years are becoming even warmer, a trend particularly clear after the 90's as the data points become much more spread out across the graph. This also aligns with California's Fourth Climate Change Assessment by the University of California San Diego, which notes the increasing likelihood of extreme weather such as heat waves, drought, and precipitation events, all of which would contribute to more extreme values of maximum mean annual temperatures. The lack of a clear linear trend is also likely influenced by the increase of extreme temperature years as the extreme values of warm and cold years create more scattered points, increasing the amount of variance in the model.
 
-[Detailed code and breakdown here](/sd-climate-portfolio-post.html)
+[Detailed code and breakdown here](portfolio_posts/sd-climate-portfolio-post.html)
 
 <embed type="text/html" src="sd_ann_max_temp_hvplot.html" width="800" height="800">
 
