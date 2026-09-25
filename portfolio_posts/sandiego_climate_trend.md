@@ -10,7 +10,7 @@ Despite the lack of conclusion on if annual temperature is increasing or decreas
 
 [Detailed code and breakdown here](sd-climate-portfolio-post.html)
 
-<embed type="text/html" src="sd_ann_max_temp_hvplot.html" width="800" height="800">
+<embed type="text/html" src="sd_ann_max_temp_hvplot(1).html" width="800" height="800">
 
 
 *Interactive graph of mean daily maximum temperatures per year from 1939-2025 collected by NOAA's station at the San Diego International Airport, California (USW00023188).*
