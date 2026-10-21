@@ -8,3 +8,11 @@ Every year, monarch butterflies (Danaus plexippus) make their seasonal overwinte
 While most North American monarchs migrate to avoid fatal freezing temperatures and find suitable milkweed plants for their larvae to reproduce (https://www.cell.com/current-biology/fulltext/S0960-9822(18)30253-7), some groups remain consistently in Mexico and Southern California as their constantly warm climates negate the need to migrate. Australian monarchs do not migrate very far for the same reason, though some migrate northwards up the coast and even reach parts of Asia. 
 
 Monarchs know when and where to migrate based on a fascinating internal system which detects changes in sunlight, climate, and even Earth's magnetic field. While this may sound like magic, researchers have determined what drives this internal GPS. This system relies on the collaboration of what is called a bidirectional time-compensated sun compass and a light-dependent inclination magnetic compass for orientation, as well as environmental factors and interactions with other monarchs. Together, these internal functions and external interactions guide Monarchs through their seasonal migration every year for the sake of breeding, highlighting the power of evolution.
+
+
+### Refences
+
+* Nail, K. R., Drizd, L., & Voorhies, K. J. (2019). Butterflies across the globe: A synthesis of the current status and characteristics of monarch (Danaus Plexippus) populations worldwide. Frontiers in Ecology and Evolution, 7. https://doi.org/10.3389/fevo.2019.00362
+* Reppert, S. M., & de Roode, J. C. (2018). Demystifying monarch Butterfly Migration. Current Biology, 28(17). https://doi.org/10.1016/j.cub.2018.02.067
+* U.S. Forest Service. Forest Service Shield. (n.d.). https://www.fs.usda.gov/wildflowers/pollinators/Monarch_Butterfly/migration/index.shtml
+
