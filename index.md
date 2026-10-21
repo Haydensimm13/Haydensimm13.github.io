@@ -28,6 +28,8 @@ Besides my education and research, I like to rock climb, surf, snowboard, and do
 
 [San Diego Climate Trends](./portfolio_posts/sandiego_climate_trend.md)
 
+[Global Monarch Butterfly Annual Migration Patterns](./portfolio_posts/monarch_migration_map.md)
+
 ### Earth Data Science Bootcamp
 
 I’m excited to refine my data processing skills and learn how to work with large data sets. I’ve only recently started working with large amounts of environmental data like spatial and remote sensing data, so I’m hoping this course will help build my skill set to use in my future career!
