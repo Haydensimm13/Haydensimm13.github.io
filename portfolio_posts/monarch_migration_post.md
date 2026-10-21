@@ -1,5 +1,7 @@
 ## Annual Migration of Monarch Butterflies
 
+<embed type="text/html" src="monarch_migration_map.html" width="800" height="800">
+
 *Interactive map of global monarch butterfly (Danaus plexippus) observations over the course of a year, 2023. Data acquiried from the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/).*
 
 
