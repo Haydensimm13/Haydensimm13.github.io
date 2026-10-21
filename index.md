@@ -28,7 +28,7 @@ Besides my education and research, I like to rock climb, surf, snowboard, and do
 
 [San Diego Climate Trends](./portfolio_posts/sandiego_climate_trend.md)
 
-[Global Monarch Butterfly Annual Migration Patterns](./portfolio_posts/monarch_migration_map.md)
+[Global Monarch Butterfly Annual Migration Patterns](./portfolio_posts/monarch_migration_post.md)
 
 ### Earth Data Science Bootcamp
 
