@@ -1,6 +1,6 @@
 ## Annual Migration of Monarch Butterflies
 
-<embed type="text/html" src="monarch_migration_map.html" width="800" height="800">
+<embed type="text/html" src="monarch_carto_migration_map.html" width="800" height="800">
 
 *Interactive map of global monarch butterfly (Danaus plexippus) observations over the course of a year, 2023. Data acquiried from the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/).*
 
@@ -14,7 +14,7 @@ While most North American monarchs migrate to [avoid fatal freezing temperatures
 
 Monarchs know when and where to migrate based on a fascinating internal system which detects changes in sunlight, climate, and even Earth's magnetic field. While this may sound like magic, [researchers](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30253-7) have determined what drives this internal GPS. This system relies on the collaboration of what is called a [bidirectional time-compensated sun compass and a light-dependent inclination magnetic compass for orientation, as well as environmental factors and interactions with other monarchs](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30253-7). Together, these internal functions and external interactions guide monarchs through their seasonal migration every year for the sake of breeding, highlighting the power of evolution.
 
-[Detailed code and breakdown here](migration-portoflio-nbs-5-6-combined.html)
+[Detailed code and breakdown here](final-mon-migration-post.html)
 
 ### Refences
 
